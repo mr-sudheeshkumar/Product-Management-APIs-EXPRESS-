@@ -1,6 +1,7 @@
 # Product-Management-APIs(using EXPRESS)
 The Goal of this app is to show how data is being posted from "POSTMAN" and how it is routed thorugh our router using EXPRESS.
 
+###*** Assignment 4 ***
 ##### *It's a simple app without MongoDB.*
 
 ## SCHEMA
@@ -30,25 +31,27 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 
 
 #### ADD 
--- add new company
-add new seller
-add new product
+- add new company
+- add new seller
+- add new product
 
 
-<------ RETRIEVE ------>
-fetch company details based on product name
-fetch seller details based on product name
-fetch all products of a company
-fetch all products of a seller
+#### RETRIEVE 
+- fetch company details based on product name
+- fetch seller details based on product name
+- fetch all products of a company
+- fetch all products of a seller
 
 
-<------ UPDATE ------>
-update company (add/remove products)
-update seller (add/remove products)
-update product (add/remove category)
+#### UPDATE 
+- update company (add/remove products)
+- update seller (add/remove products)
+- update product (add/remove category)
 
 
-<------ DELETE ------>
-delete company
-delete seller
-delete product
+#### DELETE 
+- delete company
+- delete seller
+- delete product
+
+##*** SCREENSHOTS ***
