@@ -14,17 +14,17 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 - seller id : Array of String
 
 
-<------ COMPANY ------>
-company id : String
-name : String
-product ids : Array of String
+#### COMPANY
+- company id : String
+- name : String
+- product ids : Array of String
 
 
-<------ SELLER ------>
+#### SELLER 
 
-seller id : String
-name : String
-product ids : Array of String
+- seller id : String
+- name : String
+- product ids : Array of String
 
 
 POST REQUESTS:
