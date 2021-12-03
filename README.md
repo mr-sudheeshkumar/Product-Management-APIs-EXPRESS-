@@ -6,12 +6,12 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 ## Schema
 
 ### PRODUCT
--product id : String
--title : String
--price : String
--category : Array of String
--company id : String
--seller id : Array of String
+- product id : String
+- title : String
+- price : String
+- category : Array of String
+- company id : String
+- seller id : Array of String
 
 
 <------ COMPANY ------>
