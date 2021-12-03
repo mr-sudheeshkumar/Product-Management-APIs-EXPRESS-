@@ -3,9 +3,9 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 
 #### *It's a simple app without MongoDB.*
 
-##Schema
+## Schema
 
-###PRODUCT
+### PRODUCT
 -product id : String
 -title : String
 -price : String
