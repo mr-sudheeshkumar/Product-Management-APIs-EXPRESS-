@@ -58,3 +58,4 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 - delete product
 
 ## ***SCREENSHOTS***
+-[Click Here](https://github.com/mr-sudheeshkumar/Product-Management-APIs-EXPRESS-/tree/main/assignment4/Postman)
