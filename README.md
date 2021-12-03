@@ -26,7 +26,7 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 - product ids : Array of String
 
 
-##*POST REQUESTS: *
+## *POST REQUESTS:*
 
 
 #### ADD 
