@@ -62,3 +62,4 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 
 #### ***SCREENSHOTS DEMO***
 ![1.png](https://github.com/mr-sudheeshkumar/Product-Management-APIs-EXPRESS-/blob/main/assignment4/Postman/1.png)
+![1.png](https://github.com/mr-sudheeshkumar/Product-Management-APIs-EXPRESS-/blob/main/assignment4/Postman/8.png)
