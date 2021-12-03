@@ -21,17 +21,16 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 
 
 #### SELLER 
-
 - seller id : String
 - name : String
 - product ids : Array of String
 
 
-POST REQUESTS:
+## * POST REQUESTS: *
 
 
-<------ ADD ------>
-add new company
+#### ADD 
+-- add new company
 add new seller
 add new product
 
